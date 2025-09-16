@@ -1,0 +1,64 @@
+{
+  "category": "container-management",
+  "created_date": "2025-09-15T22:48:58.867743",
+  "default_ports": [
+    80,
+    443
+  ],
+  "dependencies": [
+    "docker",
+    "kubectl"
+  ],
+  "description": "rancher is a free and open-source multi-cluster Kubernetes management platform. Rancher simplifies Kubernetes cluster deployment and management across any infrastructure, serving as an open-source alternative to proprietary Kubernetes platforms",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/container-management/rancher",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/container-management/rancher",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.867762",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "rancher",
+  "repository_url": "https://github.com/howtomgr/rancher",
+  "spec_version": "2.0",
+  "subcategory": "container-management",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "container-management",
+    "containerization",
+    "orchestration",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "rancher Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/container-management/rancher"
+}
